@@ -1,10 +1,14 @@
 # HR Analytics
+## Dataset Link: https://drive.google.com/file/d/17I_OcgqQKdyZmViYDaDFtN_QlFCfREDf/view?usp=drive_link
 
-# Key metrics:
+## Dataset Contains:
+EmpID, Age, AgeGroup, Attrition, BusinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, EmployeeCount, EmployeeNumber, EnvironmentSatisfaction, Gender, HourlyRate, JobInvolvement, JobLevel, JobRole, JobSatisfaction, MaritalStatus, MonthlyIncome, SalarySlab, MonthlyRate, NumCompaniesWorked, Over18, OverTime, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StandardHours, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager
+
+## Key metrics:
 
 Calculated important metrics such as count of employees, attrition count, attrition rate, average employee rate, average salary, and average years spent at the company. 
 
-# Key observations & insights:
+## Key observations & insights:
 
 1. Attrition by education: Life sciences and medical sector show the highest attrition, which could be due to lower compensation for workers and higher work hours. Attrition rate can help HR professionals in understanding employee retention and identify potential issues with employee engagement or satisfaction.
   
